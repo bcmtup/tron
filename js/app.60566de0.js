@@ -160,7 +160,7 @@
                     }
                 }, [t._m(2), t._m(3), t._m(4), a("ul", {
                     staticClass: "text-left"
-                }, [a("li", [t._v("Dividends every second")]), t._m(5), t._m(6), a("li", [t._v("Minimum investment is 1000 TRX")]), a("br"), a("br"), a("div", {
+                }, [a("li", [t._v("Dividends every second")]), t._m(5), t._m(6), a("li", [t._v("Minimum investment is 10 TRX")]), a("br"), a("br"), a("div", {
                     staticClass: "input-group mb-2 mr-sm-2",
                     staticStyle: {
                         position: "relative",
@@ -178,7 +178,7 @@
                         type: "number",
                         autocomplete: "off",
                         placeholder: "0",
-                        min: "100"
+                        min: "10"
                     },
                     domProps: {
                         value: t.trxForPlan0
